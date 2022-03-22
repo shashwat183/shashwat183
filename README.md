@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hi+There%2C+I+am+Shashwat+Pragya;2%2B+Years+of+development+experience)](https://git.io/typing-svg)
 
 <!--
