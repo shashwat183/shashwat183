@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I am Shashwat Pragya;Right now I am probably drinking coffee and wiritng code.)](https://git.io/typing-svg)
 
 <!--
 **shashwat183/shashwat183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
