@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Rapid Notes
 - 🌱 I’m currently learning Design Patterns in Python
 - 👯 I’m looking to collaborate on any Neovim lua based plugin
-- 💬 Ask me about best pizza in manchester
+- 💬 Ask me about the best pizza in manchester
 - 📫 How to reach me: shashwat183@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
