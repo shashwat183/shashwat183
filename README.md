@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Design Patterns in Python
 - 👯 I’m looking to collaborate on any Neovim lua based plugin
 - 💬 Ask me about best pizza in manchester
-- 📫 How to reach me: E-mail: shashwat183@gmail.com
+- 📫 How to reach me: shashwat183@gmail.com
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
